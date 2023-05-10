@@ -1,0 +1,21 @@
+.search{
+    margin-left: 20px;
+    margin-top: 100px;
+    padding: 5px 15px;
+    width: 400px;
+    color: black;
+    text-align: right;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-bottom:5px solid #FF7900;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+}
+.search::after{
+    outline: none;
+    width: 200px;
+    border-bottom:5px solid #FF7900;
+    box-shadow: 0 1px 0 0 #FF7900;
+    transition: all 0.3s ease;
+}

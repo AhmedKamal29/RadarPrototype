@@ -1,0 +1,21 @@
+.badge{
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+#com{
+    background-color: #4BB4E6;
+}
+#up{
+    background-color: #FF7900;
+}
+#strat{
+    background-color: #FFD200;
+}
+#scout{
+    background-color: #4f585e;
+}
+#blank{
+    background-color: black;
+}
